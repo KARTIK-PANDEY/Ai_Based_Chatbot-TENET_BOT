@@ -3,7 +3,7 @@ import gradio as gr
 from groq import Groq
 
 # Fetch API key from environment variable
-api_key = "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"
+api_key = "write_your_own_api_key_here"
 
 client = Groq(api_key=api_key)
 
